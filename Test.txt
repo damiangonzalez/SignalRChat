@@ -1,4 +1,4 @@
 Baseline Master commit
-First Branch commit
+First Branch commit merge conflict 2
 Second Branch commit
 Third Branch commit
